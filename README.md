@@ -3,4 +3,4 @@ Water management in dams is very important because our water resources are limit
 
 ## Project Photos
 
-![Description of Image 3](/gui_survived.JPG)
+![Description of Image 3](/IMG-20240123-WA0005.jpg)
